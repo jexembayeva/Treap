@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreapTest", "TreapTest\TreapTest.csproj", "{59859308-B406-4D04-A6E0-79EC4A91F12E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treap", "Treap\Treap.csproj", "{4F25AF93-96BE-48DD-BF1C-A4FA854628C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59859308-B406-4D04-A6E0-79EC4A91F12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59859308-B406-4D04-A6E0-79EC4A91F12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59859308-B406-4D04-A6E0-79EC4A91F12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59859308-B406-4D04-A6E0-79EC4A91F12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F25AF93-96BE-48DD-BF1C-A4FA854628C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F25AF93-96BE-48DD-BF1C-A4FA854628C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F25AF93-96BE-48DD-BF1C-A4FA854628C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F25AF93-96BE-48DD-BF1C-A4FA854628C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

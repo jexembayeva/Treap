@@ -1,0 +1,12 @@
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/bin/Debug/net5.0/Treap.deps.json
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/bin/Debug/net5.0/Treap.dll
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/bin/Debug/net5.0/ref/Treap.dll
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/bin/Debug/net5.0/Treap.pdb
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/obj/Debug/net5.0/Treap.csproj.AssemblyReference.cache
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/obj/Debug/net5.0/Treap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/obj/Debug/net5.0/Treap.AssemblyInfoInputs.cache
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/obj/Debug/net5.0/Treap.AssemblyInfo.cs
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/obj/Debug/net5.0/Treap.csproj.CoreCompileInputs.cache
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/obj/Debug/net5.0/Treap.dll
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/obj/Debug/net5.0/ref/Treap.dll
+/Users/gaukharjexembayeva/source/repos/Algorithms/Деревья/TreapDataStructure/Treap/Treap/obj/Debug/net5.0/Treap.pdb
